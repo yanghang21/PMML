@@ -1,0 +1,500 @@
+======当前行： 1=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 2=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.99, versicolor=0.01]}
+virginica
+0.0
+0.01
+0.99
+======当前行： 3=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 4=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 5=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 6=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 7=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.69, versicolor=0.31]}
+virginica
+0.0
+0.31
+0.69
+======当前行： 8=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 9=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.96, versicolor=0.04]}
+virginica
+0.0
+0.04
+0.96
+======当前行： 10=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 11=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 12=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.99, versicolor=0.01]}
+virginica
+0.0
+0.01
+0.99
+======当前行： 13=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 14=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.89, versicolor=0.11]}
+virginica
+0.0
+0.11
+0.89
+======当前行： 15=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.99, versicolor=0.01]}
+virginica
+0.0
+0.01
+0.99
+======当前行： 16=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 17=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 18=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 19=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 20=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.7, versicolor=0.3]}
+virginica
+0.0
+0.3
+0.7
+======当前行： 21=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 22=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.91, versicolor=0.09]}
+virginica
+0.0
+0.09
+0.91
+======当前行： 23=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 24=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.98, versicolor=0.02]}
+virginica
+0.0
+0.02
+0.98
+======当前行： 25=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 26=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 27=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.98, versicolor=0.02]}
+virginica
+0.0
+0.02
+0.98
+======当前行： 28=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.98, versicolor=0.02]}
+virginica
+0.0
+0.02
+0.98
+======当前行： 29=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 30=======ProbabilityDistribution{result=virginica, probability_entries=[versicolor=0.44, virginica=0.56]}
+virginica
+0.0
+0.44
+0.56
+======当前行： 31=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 32=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 33=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 34=======ProbabilityDistribution{result=virginica, probability_entries=[versicolor=0.23, virginica=0.77]}
+virginica
+0.0
+0.23
+0.77
+======当前行： 35=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.72, versicolor=0.28]}
+virginica
+0.0
+0.28
+0.72
+======当前行： 36=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 37=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 38=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 39=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.94, versicolor=0.06]}
+virginica
+0.0
+0.06
+0.94
+======当前行： 40=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 41=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 42=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 43=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.99, versicolor=0.01]}
+virginica
+0.0
+0.01
+0.99
+======当前行： 44=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 45=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 46=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 47=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.92, versicolor=0.08]}
+virginica
+0.0
+0.08
+0.92
+======当前行： 48=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 49=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 50=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 51=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 52=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 53=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 54=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 55=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 56=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 57=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 58=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 59=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 60=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 61=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 62=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 63=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 64=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 65=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=0.98, versicolor=0.02]}
+setosa
+0.98
+0.02
+0.0
+======当前行： 66=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=0.97, versicolor=0.03]}
+setosa
+0.97
+0.03
+0.0
+======当前行： 67=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 68=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 69=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=0.97, versicolor=0.03]}
+setosa
+0.97
+0.03
+0.0
+======当前行： 70=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 71=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 72=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 73=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 74=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 75=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 76=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 77=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 78=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 79=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 80=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 81=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 82=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 83=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 84=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 85=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 86=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 87=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=0.99, versicolor=0.01]}
+setosa
+0.99
+0.01
+0.0
+======当前行： 88=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 89=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 90=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 91=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 92=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=0.99, versicolor=0.01]}
+setosa
+0.99
+0.01
+0.0
+======当前行： 93=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 94=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 95=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 96=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 97=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 98=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 99=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0
+======当前行： 100=======ProbabilityDistribution{result=setosa, probability_entries=[setosa=1.0]}
+setosa
+1.0
+0.0
+0.0

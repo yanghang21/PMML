@@ -1,0 +1,500 @@
+======当前行： 1=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.97, virginica=0.03]}
+versicolor
+0.0
+0.97
+0.03
+======当前行： 2=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.96, virginica=0.03, setosa=0.01]}
+versicolor
+0.01
+0.96
+0.03
+======当前行： 3=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.85, virginica=0.15]}
+versicolor
+0.0
+0.85
+0.15
+======当前行： 4=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 5=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.96, virginica=0.04]}
+versicolor
+0.0
+0.96
+0.04
+======当前行： 6=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 7=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.94, virginica=0.05, setosa=0.01]}
+versicolor
+0.01
+0.94
+0.05
+======当前行： 8=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.97, virginica=0.03]}
+versicolor
+0.0
+0.97
+0.03
+======当前行： 9=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.99, virginica=0.01]}
+versicolor
+0.0
+0.99
+0.01
+======当前行： 10=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 11=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.99, virginica=0.01]}
+versicolor
+0.0
+0.99
+0.01
+======当前行： 12=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.98, setosa=0.01, virginica=0.01]}
+versicolor
+0.01
+0.98
+0.01
+======当前行： 13=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.96, virginica=0.04]}
+versicolor
+0.0
+0.96
+0.04
+======当前行： 14=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.98, virginica=0.02]}
+versicolor
+0.0
+0.98
+0.02
+======当前行： 15=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 16=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.97, virginica=0.02, setosa=0.01]}
+versicolor
+0.01
+0.97
+0.02
+======当前行： 17=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 18=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.97, setosa=0.02, virginica=0.01]}
+versicolor
+0.02
+0.97
+0.01
+======当前行： 19=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.95, virginica=0.05]}
+versicolor
+0.0
+0.95
+0.05
+======当前行： 20=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.99, virginica=0.01]}
+versicolor
+0.0
+0.99
+0.01
+======当前行： 21=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.94, versicolor=0.05, setosa=0.01]}
+virginica
+0.01
+0.05
+0.94
+======当前行： 22=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 23=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.86, virginica=0.14]}
+versicolor
+0.0
+0.86
+0.14
+======当前行： 24=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.98, virginica=0.02]}
+versicolor
+0.0
+0.98
+0.02
+======当前行： 25=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.98, virginica=0.02]}
+versicolor
+0.0
+0.98
+0.02
+======当前行： 26=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.99, virginica=0.01]}
+versicolor
+0.0
+0.99
+0.01
+======当前行： 27=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.79, virginica=0.21]}
+versicolor
+0.0
+0.79
+0.21
+======当前行： 28=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.68, versicolor=0.32]}
+virginica
+0.0
+0.32
+0.68
+======当前行： 29=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.99, virginica=0.01]}
+versicolor
+0.0
+0.99
+0.01
+======当前行： 30=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 31=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 32=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 33=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.97, setosa=0.02, virginica=0.01]}
+versicolor
+0.02
+0.97
+0.01
+======当前行： 34=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.8, virginica=0.2]}
+versicolor
+0.0
+0.8
+0.2
+======当前行： 35=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.96, setosa=0.03, virginica=0.01]}
+versicolor
+0.03
+0.96
+0.01
+======当前行： 36=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.96, setosa=0.04]}
+versicolor
+0.04
+0.96
+0.0
+======当前行： 37=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.96, virginica=0.04]}
+versicolor
+0.0
+0.96
+0.04
+======当前行： 38=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.99, virginica=0.01]}
+versicolor
+0.0
+0.99
+0.01
+======当前行： 39=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 40=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.99, setosa=0.01]}
+versicolor
+0.01
+0.99
+0.0
+======当前行： 41=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.98, setosa=0.01, virginica=0.01]}
+versicolor
+0.01
+0.98
+0.01
+======当前行： 42=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 43=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.96, virginica=0.02, setosa=0.02]}
+versicolor
+0.02
+0.96
+0.02
+======当前行： 44=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 45=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.99, virginica=0.01]}
+versicolor
+0.0
+0.99
+0.01
+======当前行： 46=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 47=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 48=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=0.99, virginica=0.01]}
+versicolor
+0.0
+0.99
+0.01
+======当前行： 49=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 50=======ProbabilityDistribution{result=versicolor, probability_entries=[versicolor=1.0]}
+versicolor
+0.0
+1.0
+0.0
+======当前行： 51=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 52=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.99, versicolor=0.01]}
+virginica
+0.0
+0.01
+0.99
+======当前行： 53=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 54=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 55=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 56=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 57=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.69, versicolor=0.31]}
+virginica
+0.0
+0.31
+0.69
+======当前行： 58=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 59=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.96, versicolor=0.04]}
+virginica
+0.0
+0.04
+0.96
+======当前行： 60=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 61=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 62=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.99, versicolor=0.01]}
+virginica
+0.0
+0.01
+0.99
+======当前行： 63=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 64=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.89, versicolor=0.11]}
+virginica
+0.0
+0.11
+0.89
+======当前行： 65=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.99, versicolor=0.01]}
+virginica
+0.0
+0.01
+0.99
+======当前行： 66=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 67=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 68=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 69=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 70=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.7, versicolor=0.3]}
+virginica
+0.0
+0.3
+0.7
+======当前行： 71=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 72=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.91, versicolor=0.09]}
+virginica
+0.0
+0.09
+0.91
+======当前行： 73=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 74=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.98, versicolor=0.02]}
+virginica
+0.0
+0.02
+0.98
+======当前行： 75=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 76=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 77=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.98, versicolor=0.02]}
+virginica
+0.0
+0.02
+0.98
+======当前行： 78=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.98, versicolor=0.02]}
+virginica
+0.0
+0.02
+0.98
+======当前行： 79=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 80=======ProbabilityDistribution{result=virginica, probability_entries=[versicolor=0.44, virginica=0.56]}
+virginica
+0.0
+0.44
+0.56
+======当前行： 81=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 82=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 83=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 84=======ProbabilityDistribution{result=virginica, probability_entries=[versicolor=0.23, virginica=0.77]}
+virginica
+0.0
+0.23
+0.77
+======当前行： 85=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.72, versicolor=0.28]}
+virginica
+0.0
+0.28
+0.72
+======当前行： 86=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 87=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 88=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 89=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.94, versicolor=0.06]}
+virginica
+0.0
+0.06
+0.94
+======当前行： 90=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 91=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 92=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 93=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.99, versicolor=0.01]}
+virginica
+0.0
+0.01
+0.99
+======当前行： 94=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 95=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 96=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 97=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=0.92, versicolor=0.08]}
+virginica
+0.0
+0.08
+0.92
+======当前行： 98=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 99=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
+======当前行： 100=======ProbabilityDistribution{result=virginica, probability_entries=[virginica=1.0]}
+virginica
+0.0
+0.0
+1.0
